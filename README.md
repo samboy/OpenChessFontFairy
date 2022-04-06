@@ -4,8 +4,8 @@ This is an open content Chess font with Fairy pieces added.
 
 * A is a white upsidedown bishop
 * S is a black upsidedown bishop
-* D is a white upsidedown rook + bishop fairy piece
-* F is a black upsidedown rook + bishop fairy piece
+* D is a white rook + knight fairy piece
+* F is a black rook + knight fairy piece
 * G is a white upsidedown knight
 * H is a black upsidedown knight
 * P is a white pawn
