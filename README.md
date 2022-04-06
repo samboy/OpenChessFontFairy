@@ -50,6 +50,7 @@ light square.
 * `COPYING.md` License and attribution for this font
 * `Chess-start.doc` A document with the standard Chess starting position.
 * `OpenChessFontFairy.ttf` The font to install
+* `OpenChessFontFairy.otf` The font to install (Open type format)
 * `OpenChessFontFairy.sfd` Fontforge source file for font
 * `Embassy-Chess-start.doc` The Embassy Chess starting position
 * `Grand-Chess-start.doc` The Grand Chess starting position
@@ -64,6 +65,7 @@ Please read COPYING.md for full license and attribution.
 # Install
 
 Install the file `OpenChessFontFairy.ttf` so that it is a font one can use.
+Mac users may be better off installing `OpenChessFontFairy.otf`.
 
 # See also
 
