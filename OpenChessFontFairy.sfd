@@ -9298,9 +9298,9 @@ LayerCount: 2
 Fore
 SplineSet
 0 450 m 1
- 1000 450 l 1
- 1000 500 l 1
  0 500 l 5
+ 1000 500 l 1
+ 1000 450 l 1
  0 450 l 1
 EndSplineSet
 EndChar
