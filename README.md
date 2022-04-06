@@ -45,6 +45,16 @@ black piece is next to the white piece; e.g. `V` is a black bishop where
 `B` is a white bishop).  Uppercase is a dark square; lower case is a 
 light square.
 
+# Files
+
+* `COPYING.md` License and attribution for this font
+* `Chess-start.doc` A document with the standard Chess starting position.
+* `OpenChessFontFairy.ttf` The font to install
+* `OpenChessFontFairy.sfd` Fontforge source file for font
+* `Embassy-Chess-start.doc` The Embassy Chess starting position
+* `Modern-Carrera-start.doc` The Modern Carrera starting position
+* `README.md` This README file
+
 # Copyright
 
 Please read COPYING.md for full license and attribution.
