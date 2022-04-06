@@ -52,8 +52,10 @@ light square.
 * `OpenChessFontFairy.ttf` The font to install
 * `OpenChessFontFairy.sfd` Fontforge source file for font
 * `Embassy-Chess-start.doc` The Embassy Chess starting position
+* `Grand-Chess-start.doc` The Grand Chess starting position
 * `Modern-Carrera-start.doc` The Modern Carrera starting position
 * `README.md` This README file
+* `Schoolbook-start.doc` The Schoolbook chess starting position
 
 # Copyright
 
