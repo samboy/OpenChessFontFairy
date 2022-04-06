@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1564540001
-ModificationTime: 1649211095
+ModificationTime: 1649211593
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -9253,9 +9253,12 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-0 0 m 1024
+0 -450 m 1
+ 50 -450 l 1
+ 50 -500 l 1
+ 0 -500 l 5
+ 0 -450 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: dollar
@@ -9272,6 +9275,7 @@ SplineSet
  950 500 l 5
 0 0 m 1024
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: percent
@@ -9288,6 +9292,7 @@ SplineSet
  0 500 l 5
 0 0 m 1024
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: parenleft
@@ -9303,6 +9308,7 @@ SplineSet
  1000 450 l 1
  0 450 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: parenright
@@ -9312,9 +9318,12 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-0 0 m 1024
+0 450 m 1
+ 0 500 l 5
+ 50 500 l 1
+ 50 450 l 1
+ 0 450 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: slash
@@ -9324,9 +9333,12 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-0 0 m 1024
+950 450 m 1
+ 950 500 l 5
+ 1000 500 l 1
+ 1000 450 l 1
+ 950 450 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: S
