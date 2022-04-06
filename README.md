@@ -4,8 +4,8 @@ This is an open content Chess font with Fairy pieces added.
 
 * A is a white upsidedown bishop
 * S is a black upsidedown bishop
-* D is a modified white upsidedown rook
-* F is a modified black upsidedown rook
+* D is a white upsidedown rook
+* F is a black upsidedown rook
 * G is a white upsidedown knight
 * H is a black upsidedown knight
 * P is a white pawn
@@ -14,6 +14,10 @@ This is an open content Chess font with Fairy pieces added.
 * TMVWL are the corresponding black pieces
 * A `+` is an empty black square
 * A ` ` (blank space) is an empty white square
+
+Note that the mapping is (generally) compatible with Chess Merida
+and Armando Hernandez Marroquin’s other excellent freeware
+Chess fonts.
 
 Uppercase pieces are on black squares; lowercase pieces are on white 
 squares.
